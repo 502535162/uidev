@@ -1512,8 +1512,8 @@
                         </div>
                         <!-- //.circle -->
 
-                            <span class="number" data-from="10" data-to="13" data-refresh-interval="10">
-                                10
+                            <span class="number" data-from="5" data-to="6" data-refresh-interval="10">
+                                6
                             </span>
 
                         <h4>Succesful Projects</h4>
@@ -1526,7 +1526,7 @@
                         </div>
                         <!-- //.circle -->
 
-                            <span class="number" data-from="10" data-to="11" data-refresh-interval="10">
+                            <span class="number" data-from="4" data-to="5" data-refresh-interval="10">
                                 5
                             </span>
 

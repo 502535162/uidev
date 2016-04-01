@@ -2,8 +2,14 @@ var app = angular.module("uiDevApp", ['ngSanitize']);
 
 app.controller("uiDevCtrl", ["$scope", "$http", function(s, h){
 
+	var jsonUrl = "data/uday.json";
+	var path = window.location.hostname.substring(0, window.location.hostname.indexOf(".uidev"));
+	if(path){
+		jsonUrl = "data/"+path+".json";
+	}
+
 	//use http://jsonformat.com/#jsondataurllabel
-	h.get("data/ravi.json").then(function(successData){
+	h.get(jsonUrl).then(function(successData){
 		var data = successData.data;
 		s.name = data.name;
 		s.location = data.location;
