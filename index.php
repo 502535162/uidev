@@ -1034,7 +1034,7 @@
                             </div>
                             <!-- //.circle -->
 
-                            <span class="percent">75%</span>
+                            <span class="percent">45%</span>
 
                             <h4 class="text-center">Big Data / Hadoop</h4>
                         </div>
@@ -1051,7 +1051,7 @@
 
                             <span class="percent">95%</span>
 
-                            <h4 class="text-center">Flex 3/4, Actionscript 3.0</h4>
+                            <h4 class="text-center">Angular JS</h4>
                         </div>
                         <!-- //.item -->
                     </div>
@@ -1064,7 +1064,7 @@
                             </div>
                             <!-- //.circle -->
 
-                            <span class="percent">85%</span>
+                            <span class="percent">65%</span>
 
                             <h4 class="text-center">Java/J2EE</h4>
                         </div>
@@ -1079,7 +1079,7 @@
                             </div>
                             <!-- //.circle -->
 
-                            <span class="percent">70%</span>
+                            <span class="percent">60%</span>
 
                             <h4 class="text-center">RDBMS & NoSQL's</h4>
                         </div>
@@ -1142,7 +1142,7 @@
                             </div>
                             <!-- //.circle -->
 
-                            <span class="percent">95%</span>
+                            <span class="percent">75%</span>
 
                             <h4 class="text-center">Web/App Servers</h4>
                         </div>

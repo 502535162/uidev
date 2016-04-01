@@ -1,0 +1,137 @@
+
+
+{
+	"name" :"Ravi Reddy",
+	"location":"Milpitas, CA",
+	"email": "rreddydev@gmail.com",
+	"phNumber":"972-273-0158",
+
+	"gitHubLink": "#",
+	"linkedInUrl":"#",
+	"fbUrl": "#",
+	"googlePlusUrl": "#",
+	"shortName":"Ravi",
+	"birthLocation": "Hyderabad, India",
+	"employerName": "Capital Info Group, Inc.",
+
+	"educationDetails":
+	{ 
+		"title": "My Education",
+		"year": "1999-2008",
+		"body": "Thanks to my parents for helping and supporting me for what I am today.",
+		"degrees": 
+		[
+			{
+				"year": "2007 - 2008",
+				"title": "Masters in Computer Science.",
+				"collegeTitle": " Texas A&M University",
+				"body":"Graduated with distinction majoring Computer Science with specific interest in Algorithms, JAVA, Web programming."
+			},
+			{
+				"year": "2002 - 2006",
+				"title": "Bachelors in Electrical & Electronics Engineering.",
+				"collegeTitle": " - Jawaharlal Nehru Technology University",
+				"body":"Graduated with distinction majoring Computer Science with specific interest in Algorithms, JAVA, Web programming."
+			},
+			{
+				"year": "2000 - 2002",
+				"title": "Board of Intermediate Education.",
+				"collegeTitle": "  - Alphores Jr. College",
+				"body":" Excelled Intermediate Education (Class of 11 & 12) with top of the class marks mainly in Maths, Physics and Chemistry subjects."
+			},
+			{
+				"year": "1999-2000",
+				"title": "Board of Secondary School.",
+				"collegeTitle": " - S.S.S Mandir",
+				"body":"It's really hard to get back to those initial days of incubating maturedness which was filled with joy and learning things every day in a new fashion. I always feel that I was very well nourished with the qualities I carry myself to this day. I was a simple, sober and a very bright student who would complete his homeworks on time, taking examinations very seriously and had ambition towards any goals which were set forth."
+			}
+
+		]
+
+		
+	},
+
+	"workExperience":
+	{ 
+		"title":"Work Experience",
+		"year": "2005-Current",
+		"body": "",
+		"details": 
+		[
+			{
+				"year": "2011 - Now",
+				"title":"",
+				"client": "Western Digital Technologies",
+				"responsibilities": "•	Develop Web Application modules for customer service functionality using Angular JS, HTML5, CSS3, Javascript.<br/>•	Developed Application using Object-oriented JavaScript.<br> •	Enhance customer billing module to allow new customer types and rules.<br> •	Design and develop AngularJS single page web application for Customer Agent multimedia IPad app.<br> •	Have worked on Angular JS which combines web applications with Model View Controller capability to make development and testing of code efficient.<br> •	Have Identified common components in the application and built Custom Directives.<br> •	Used Angular Services to communicate with REST API services.<br> •	This system was written in Ajax, OO JavaScript, JSP, JQuery, HTML and CSS.<br> •	Used JavaScript and CSS for UI Design Mockup. Written code in JQuery/JavaScript /CSS/AJAX for the navigation oriented application.<br> •	Created Dynamic Integration of JQuery, and other JQuery component integration with Ajax.<br> •	Worked on JQuery mobile which is based on HTML 5 for designing user interfaces for web applications.<br> •	Implemented jQuery Filter search a JavaScript tool for adding a little search widget next to any page listing.<br> •	Worked on Jasmine and karma framework for doing JavaScript unit testing.<br> •	&lt;&lt;MORE TO COME&gt;&gt;"
+
+			},
+			{
+				"year": "2010 - 2011",
+				"title":"",
+				"client": " Cisco, CA",
+				"responsibilities":"•	Participated in guest lectures and training sessions for VCSA Installer, which was architected using AngularJs MVVM framework.<br>•	Responsible for fixing defects on both the client side (Adobe Flex) and Server side (Java/J2EE).<br> •	Worked on front end form field validations in VCSA Installer which is purely using AngularJs.<br> •	Used AJAX & JSON communication for accessing RESTful web services data payload.<br> •	Played with Web Socket Connections to communicate with VM and bring the same in action on all major browsers.<br> •	Communicated with CPP plugins for data retrieval and data post within Web Sockets.<br> •	Create Browser detection utility using Regular Expressions for different browser User Agents strings.<br> •	Used Advanced JavaScript ArrayBuffer Data Types to read and write binary data to Web Sockets.<br> •	Worked on Java Server Side Communication for Web Sockets to read and transfer data from ESX host machine to the client on Browser.<br> •	Resolved Cross Site Scripting (XSS) vulnerabilities within majorly used browsers by using OWASP Java HTML Sanitizer Google code project library.<br> •	Extensively used jQuery for faster javascript programming and followed better coding techniques for better performance and intuitiveness.<br> •	Kept in mind while coding about the performances of search techniques with Big-O notations.<br> •	Worked extensively on HTML5 div and canvas elements to demonstrate fullScreen prototypes.<br> •	Reduced the necessity of using JavaScript styling by using CSS3 wherever necessary.<br> •	Used GruntJS library to minify, unit test and compilation of java scripts.<br> •	Wrote various javascript utilities like XMLParser, DomainNameValidator, IpUtil etc.. with recommended RFC standards for easy code reuse for form validations.<br> •	Worked on setting the Reverse proxy for Web Sockets wss protocol to support HTML based Web Console for a Virtual Machine.<br> •	Well versed with the use of Perforce VCS with different branches on different P4 Servers and as well as Cross porting and Back porting files and folders.<br> •	Used Review Board for code reviewing and extensively used Maven and Ant for adding dependencies, installing, packaging and deployment."
+			},
+			{
+				"year": "2009 - 2010",
+				"title": "",
+				"client": "Gate Gourmet, VA",
+				"responsibilities":"•	Designed web application user interface, interaction scenarios and navigation based on analysts, interpretations of requirement and use cases.<br>•	This is a configuration widget written in CSS 3, Java Script, and jQuery framework in UI Layer with Tag library, application deployed and tested on Linux.<br> •	Designed and Developed JavaScript framework, which is wrapper on top of JQUERY framework and AJAX based UI Configuration widgets.<br> •	This will hide all the list items that don't match the word that are being searched for •	Extensively used jQuery plug-in like Isotope and Masonry plug-in for multi column layout, Search plug-in, calendar plug-in, Ajax-queue plug-in, and Auto populating multiple select-boxes.<br> •	Used jQuery fancy box plug-in that adds stylish drop shadow to images posted on the webpage using jQuery.<br> •	Developed UI and implemented for some plug-in using JavaScript, HTML, CSS and XML.<br> •	Involved in the creation of interface to manage user menu and bulk update of attributes using Angularjs and JQuery.<br> "},
+			{
+				"year": "2009 - 2009",
+				"title": "",
+				"client": "HSBC, IL",
+				"responsibilities":"•	Assisted in designing, creating and developing web portals. <br>•	Created graphics including Icons, Images and logos using Adobe Flash Catalyst. <br> •	Created appropriate concept models, site organization prototypes, navigation, page layouts and interaction. <br> •	Developed HTML prototype documents with CSS Style Sheets. <br> •	Designed dynamic client-side JavaScript codes to build web forms and simulate process for web application, page navigation and form validation using jQuery and JavaScript. <br> •	Worked closely with the programmers for project requirement analysis. <br> •	Created new static model pages with cross browser compatibility features. <br> "},
+			{
+				"year": "2005 - 2007",
+				"title": "",
+				"client": "Iotasoft, INDIA",
+				"responsibilities":"•	Developed the UI layout and front-end programming (HTML) for web application that matched requirements.<br> •	Extensively involved design discussions and user experience sessions to provide inputs on the layout and UX.<br> •	Built complex desktop - style UI using HTML, PHP, CSS, JavaScript and AJAX including configuration wizards and interactive reports.<br> •	Added social media links on the company’s primary website and worked on search engine optimization.<br> •	Web Application Developed using Web Technologies 2.0.<br> •	Participated in the functional testing and implementation of the website<br> "
+			}
+
+		]
+		
+	},
+
+
+	"clients" :[
+
+			{
+				"name": "Western Digital Technologies",
+				"about": "Western Digital Corporation (commonly referred to as Western Digital and often abbreviated as WDC or WD) is an American computer data storage company and one of the largest computer hard disk drive manufacturers in the world, along with Seagate Technology.",
+				"myDesignation": "Sr Front End Developer",
+				"duration": "Apr 2014 – Till Date",
+				"logoUrl": "assets/images/clients/uday/1.jpg"
+			},
+			{
+				"name": "Cisco",
+				"about": "Cisco Systems, Inc. is an American multinational technology company headquartered in San Jose, California, that designs, manufactures and sells networking equipment.It is considered to be the biggest networking company in the world.",
+				"myDesignation": "Sr Front End Developer",
+				"duration": "Apr 2012 – Mar 2014",
+				"logoUrl": "assets/images/clients/uday/2.jpg"
+			},
+			{
+				"name": "Gate Gourmet",
+				"about": "Gate Gourmet is an airline catering firm with headquarters on the grounds of Zürich Airport, Switzerland, near Zürich.Gate Gourmet was founded in 1992, and is the world's largest independent airline catering, hospitality and logistics company.As a part of parent company Gate Group, the company has substantially expanded its products and services recently through acquisitions and strategic investments. ",
+				"myDesignation": "Sr UI Developer",
+				"duration": "Nov 2010 – Mar 2012",
+				"logoUrl": "assets/images/clients/uday/3.jpg"
+			},
+			{
+				"name": "HSBC",
+				"about": "HSBC Bank plc is one of the largest banking and financial services organisations in the world. HSBC's international network comprises around 7,500 offices in over 80 countries and territories in Europe, the Asia-Pacific region, the Americas, the Middle East and Africa.",
+				"myDesignation": "Front End Developer",
+				"duration": "May 2009 – Nov 2010",
+				"logoUrl": "assets/images/clients/uday/4.jpg"
+			},
+			{
+				"name": "Iotasoft",
+				"about": "Iotasoft Software Pvt. Ltd. is a technology consulting organization specializing in outsourced product engineering services. As a leader in hi-tech and product engineering space, Cybage works with some of the world's best Independent Software Vendors (ISVs). Our solutions are focused on modern technologies, and are enabled by a scientific, data driven system called Excelshore® Model of Operational Excellence. This unique model de-risks our approach, provides better predictability, and ensures a better value per unit cost to our clients.",
+				"myDesignation": "UI Developer",
+				"duration": "Jul 2008 – Apr 2009",
+				"logoUrl": "assets/images/clients/uday/5.jpg"
+			}
+			
+
+
+	]
+}

@@ -3,7 +3,7 @@ var app = angular.module("uiDevApp", ['ngSanitize']);
 app.controller("uiDevCtrl", ["$scope", "$http", function(s, h){
 
 	//use http://jsonformat.com/#jsondataurllabel
-	h.get("data/uday.json").then(function(successData){
+	h.get("data/ravi.json").then(function(successData){
 		var data = successData.data;
 		s.name = data.name;
 		s.location = data.location;
