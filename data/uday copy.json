@@ -17,31 +17,25 @@
 	"educationDetails":
 	{ 
 		"title": "My Education",
-		"year": "1989-2009",
+		"year": "2001-2008",
 		"body": "Thanks to my parents for helping and supporting me for what I am today.",
 		"degrees": 
 		[
+			
 			{
-				"year": "2008 - 2009",
-				"title": "Masters in Electrical and Electronics Engineering.",
-				"collegeTitle": " - Wayne State University",
-				"body":"Graduated with distinction majoring VLSI Systems design with specific interest in Embedded Systems and Sensor Cells."
-
-			},
-			{
-				"year": "2003 - 2007",
-				"title": "Bachelors in Electronics and Communications Engineering.",
+				"year": "2004 - 2008",
+				"title": "Bachelors in Computer Science.",
 				"collegeTitle": " - Jawaharlal Nehru Technology University",
-				"body":"•	Designed applications using web technologies like HTML, DHTML, XHTML, and CSS based on the W3C standards.<br>•	Used AngularJS to make the HTML 5 and CSS code interact with the JavaScript functions to add dynamic data to the web pages at the client side. <br> •	Coordinate with team members to meet scheduled deadlines, review completed work requests.<br> •	Creating wireframes as per the functional specification document.<br> •	Integrated with the back-end code (JSP) using AngularJS, JSON and AJAX to get and post the data to backend servers. •	Applied XML into transferring administration data to the back end. <br> •	Developed interface to display report data using jQuery, AJAX, JavaScript and JSON, XML.<br> •	Used AngularJS Interceptors for communicate to remote HTTP server.<br> •	Having very good experience using Scaffolding tools like GIT, SVN and Gulp.<br> •	Used AJAX, JSON to send request to the server to check the functionality of the website.<br> •	Performed various mathematical calculations in JavaScript, jQuery.<br> •	Enhanced user experience by designing new web features using MVC Framework like Angularjs to accommodate these advanced and fast technologies.<br> •	Used various jQuery plugins like auto complete, date picker, color picker, document slider to enhance the usability, functionality and overall experience for website. <br> •	Validated the user input using jQuery validation plugin.<br> •	Used tools such as firebug, web developer tools for debugging and correcting errors.<br> "
+				"body":"Graduated with distinction majoring Computer Science with specific interest in Algorithms, JAVA, Web programming."
 			},
 			{
-				"year": "2001 - 2003",
+				"year": "2002 - 2004",
 				"title": "Board of Intermediate Education.",
 				"collegeTitle": "  - Sri Aurobindo Jr. College",
 				"body":" Excelled Intermediate Education (Class of 11 & 12) with top of the class marks mainly in Maths, Physics and Chemistry subjects."
 			},
 			{
-				"year": "1989 - 2001",
+				"year": "2001-2002",
 				"title": "Board of Secondary School.",
 				"collegeTitle": " - St. Ann's High School ",
 				"body":"It's really hard to get back to those initial days of incubating maturedness which was filled with joy and learning things every day in a new fashion. I always feel that I was very well nourished with the qualities I carry myself to this day. I was a simple, sober and a very bright student who would complete his homeworks on time, taking examinations very seriously and had ambition towards any goals which were set forth."

@@ -31,14 +31,10 @@
       }
     ],
   "educationDetails" : { "body" : "Thanks to my parents for helping and supporting me for what I am today.",
-      "degrees" : [ { "body" : "Graduated with distinction majoring VLSI Systems design with specific interest in Embedded Systems and Sensor Cells.",
-            "collegeTitle" : " - Wayne State University",
-            "title" : "Masters in Electrical and Electronics Engineering.",
-            "year" : "2008 - 2009"
-          },
-          { "body" : "Designed applications using web technologies like HTML, DHTML, XHTML, and CSS based on the W3C standards.\tUsed AngularJS to make the HTML 5 and CSS code interact with the JavaScript functions to add dynamic data to the web pages at the client side.Coordinate with team members to meet scheduled deadlines, review completed work requests.",
+      "degrees" : [ 
+          { "body" : "Graduated with distinction majoring Computer Science with specific interest in Algorithms, JAVA, Web programming.",
             "collegeTitle" : " - Jawaharlal Nehru Technology University",
-            "title" : "Bachelors in Electronics and Communications Engineering.",
+            "title" : "Bachelors in Computer Science.",
             "year" : "2003 - 2007"
           },
           { "body" : " Excelled Intermediate Education (Class of 11 & 12) with top of the class marks mainly in Maths, Physics and Chemistry subjects.",
