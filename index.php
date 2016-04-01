@@ -38,7 +38,8 @@
 
     <!-- Main CSS -->
     <link href="assets/css/main.css" rel="stylesheet" type="text/css">
-    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-sanitize.js"></script>
     <script type="text/javascript" src="assets/js/uiDevCtrl.js"></script>
 
     <!-- Modernizr JS for IE8 support of HTML5 elements and media queries -->
@@ -866,8 +867,8 @@
                                     <br>
                                    <h4 class="resume-title" style="margin-left: 15px">Responsibilities:</h4>
                                    <div class="panel-body text-grey">
-                                        <p class="projectResponsibilities">
-                                            {{work.responsibilities}}
+                                        <p class="projectResponsibilities" ng-bind-html="work.responsibilities">
+                                            
                                         </p>
                                     </div>
                                     <!-- //.panel-body -->

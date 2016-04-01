@@ -57,15 +57,15 @@ app.controller("uiDevCtrl", ["$scope", function(s){
 	s.workExperience = 
 	{ 
 		title: "Work Experience",
-		year: "2006-Current",
+		year: "2008-Current",
 		body: "",
 		details: 
 		[
 			{
 				year: "2015 - Now",
 				title:"",
-				client: "Goldman Sachs. - Sr. Full-Stack Software Engineer.",
-				responsibilities: "•	Working on migrating the Flex based UI with HTML5, JS, AngularJs MVVM framework.<br>•	Incorporating HTML5/JS’s Slick Grid for data grid’s in the UI.<br>•	Using Slick Grid’s pagination mechanism.<br>•	UI Router to route and save states between pages.<br>•	Optimizing and improving existing SQL queries to improve Execution Time and Data Fetch time.<br>•	Improving existing Flex UI Screens to render quickly.<br>•	&lt;&lt;MORE TO COME&gt;&gt;"
+				client: "Standard Chartered",
+				responsibilities: "•	Develop Web Application modules for customer service functionality using Angular JS, HTML5, CSS3, Javascript.<br>•	Developed Application using Object-oriented JavaScript.<br> •	Enhance customer billing module to allow new customer types and rules.<br> •	Design and develop AngularJS single page web application for Customer Agent multimedia IPad app.<br> •	Have worked on Angular JS which combines web applications with Model View Controller capability to make development and testing of code efficient.<br> •	Have Identified common components in the application and built Custom Directives.<br> •	Used Angular Services to communicate with REST API services.<br> •	This system was written in Ajax, OO JavaScript, JSP, JQuery, HTML and CSS.<br> •	Used JavaScript and CSS for UI Design Mockup. Written code in JQuery/JavaScript /CSS/AJAX for the navigation oriented application.<br> •	Created Dynamic Integration of JQuery, and other JQuery component integration with Ajax.<br> •	Worked on JQuery mobile which is based on HTML 5 for designing user interfaces for web applications.<br> •	Implemented jQuery Filter search a JavaScript tool for adding a little search widget next to any page listing.<br> •	Worked on Jasmine and karma framework for doing JavaScript unit testing.<br> •	&lt;&lt;MORE TO COME&gt;&gt;"
 
 			},
 			{
