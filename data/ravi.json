@@ -1,31 +1,31 @@
 { "birthLocation" : "Hyderabad, India",
   "clients" : [ { "about" : "Western Digital Corporation (commonly referred to as Western Digital and often abbreviated as WDC or WD) is an American computer data storage company and one of the largest computer hard disk drive manufacturers in the world, along with Seagate Technology.",
         "duration" : "Apr 2014 – Till Date",
-        "logoUrl" : "assets/images/clients/uday/1.jpg",
+        "logoUrl" : "assets/images/clients/ravi/1.jpg",
         "myDesignation" : "Sr Front End Developer",
         "name" : "Western Digital Technologies"
       },
       { "about" : "Cisco Systems, Inc. is an American multinational technology company headquartered in San Jose, California, that designs, manufactures and sells networking equipment.It is considered to be the biggest networking company in the world.",
         "duration" : "Apr 2012 – Mar 2014",
-        "logoUrl" : "assets/images/clients/uday/2.jpg",
+        "logoUrl" : "assets/images/clients/ravi/2.jpg",
         "myDesignation" : "Sr Front End Developer",
         "name" : "Cisco"
       },
       { "about" : "Gate Gourmet is an airline catering firm with headquarters on the grounds of Zürich Airport, Switzerland, near Zürich.Gate Gourmet was founded in 1992, and is the world's largest independent airline catering, hospitality and logistics company.As a part of parent company Gate Group, the company has substantially expanded its products and services recently through acquisitions and strategic investments. ",
         "duration" : "Nov 2010 – Mar 2012",
-        "logoUrl" : "assets/images/clients/uday/3.jpg",
+        "logoUrl" : "assets/images/clients/ravi/3.jpg",
         "myDesignation" : "Sr UI Developer",
         "name" : "Gate Gourmet"
       },
       { "about" : "HSBC Bank plc is one of the largest banking and financial services organisations in the world. HSBC's international network comprises around 7,500 offices in over 80 countries and territories in Europe, the Asia-Pacific region, the Americas, the Middle East and Africa.",
         "duration" : "May 2009 – Nov 2010",
-        "logoUrl" : "assets/images/clients/uday/4.jpg",
+        "logoUrl" : "assets/images/clients/ravi/4.jpg",
         "myDesignation" : "Front End Developer",
         "name" : "HSBC"
       },
       { "about" : "Iotasoft Software Pvt. Ltd. is a technology consulting organization specializing in outsourced product engineering services. As a leader in hi-tech and product engineering space, Cybage works with some of the world's best Independent Software Vendors (ISVs). Our solutions are focused on modern technologies, and are enabled by a scientific, data driven system called Excelshore® Model of Operational Excellence. This unique model de-risks our approach, provides better predictability, and ensures a better value per unit cost to our clients.",
         "duration" : "Jul 2008 – Apr 2009",
-        "logoUrl" : "assets/images/clients/uday/5.jpg",
+        "logoUrl" : "assets/images/clients/ravi/5.jpg",
         "myDesignation" : "UI Developer",
         "name" : "Iotasoft"
       }
